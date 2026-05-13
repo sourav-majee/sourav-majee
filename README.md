@@ -1,5 +1,3 @@
-Here’s a sharper, more recruiter-friendly rewrite of your GitHub profile README (with your current MERN + full-stack direction reflected):
-
 <h1 align="center">Hi there 👋, I'm Sourav Majee</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | MCA Student</h3>
 
