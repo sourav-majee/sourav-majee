@@ -67,5 +67,3 @@ AI/ML • DevOps • Cloud Computing • System Design
 <p align="center">
   <i>"Consistency, discipline, and execution turn dreams into reality."</i>
 </p>
-
-This version aligns better with your current goals—**MERN, placements, startup mindset, GSoC, and real-world projects**—instead of the older Python/Django-only positioning.
