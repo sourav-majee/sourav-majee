@@ -1,37 +1,73 @@
+Here’s a sharper, more recruiter-friendly rewrite of your GitHub profile README (with your current MERN + full-stack direction reflected):
+
 <h1 align="center">Hi there 👋, I'm Sourav Majee</h1>
-<h3 align="center">Backend Developer | Aspiring DevOps Engineer | MCA Final Year</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | MCA Student</h3>
 
 <p align="center">
-  I build robust APIs using <b>Python, Django, and PostgreSQL</b>, and I am currently diving deep into <b>Linux, CI/CD, and GitHub Actions</b> to automate infrastructure. My goal is to bridge the gap between solid backend logic and seamless deployments. 🚀
+  I build modern, scalable, and real-world web applications using <b>MongoDB, Express.js, React, and Node.js</b>.  
+  Currently, I’m expanding my expertise in <b>System Design, DevOps, Cloud Technologies, and AI-powered applications</b> to create products that are not just functional—but production ready. 🚀
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final-year **MCA student** building real-world applications.
-- ⚙️ Currently learning: **Linux Administration, DevOps Fundamentals, GitHub Actions**.
-- 🛠️ What I build: Scalable backend systems (like my recent Django-based Ledger App).
-- 🌱 Exploring: The intersection of **AI/ML** and infrastructure automation.
-- 🤝 Looking to collaborate on: Open-source Python projects and CI/CD pipelines.
+## 👨‍💻 About Me
+
+* 🎓 Final-year MCA student passionate about building impactful software.
+* 💻 Currently focused on mastering the **MERN Stack** and backend architecture.
+* 🛠️ Building real-world projects in **Web Development, AI Integration, and Automation**.
+* 🌱 Learning **DevOps, Docker, CI/CD, Cloud Deployment, and Scalable System Design**.
+* 🚀 Goal: To become a world-class Software Engineer and build products that solve real problems.
+* 🤝 Open to collaborating on **Open Source, Startups, and Innovative Tech Projects**.
 
 ---
 
-### 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-**Languages & Frameworks:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+### Languages
 
-**Database & Infrastructure:** ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+JavaScript • Python • C • Java
 
-**Version Control & DevOps (Learning):** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### Frontend
+
+React.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+
+### Backend
+
+Node.js • Express.js • REST APIs
+
+### Database
+
+MongoDB • MySQL • PostgreSQL
+
+### Tools & Platforms
+
+Git • GitHub • Docker • Linux • Postman • MongoDB Atlas
+
+### Currently Exploring
+
+AI/ML • DevOps • Cloud Computing • System Design
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [Sourav Majee](https://www.linkedin.com/in/sourav-majee-235033311/)
-- **Resume:** *(Working)*
+## 🚀 Current Projects
+
+* AI-Based Interview Assessment Platform
+* Event Management System using MERN
+* CS Online Coaching Platform
+* Open Source Contributions & Portfolio Development
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: **Sourav Majee**
+* 📄 Resume: *Coming Soon*
+* 📧 Open for internships, freelance projects, and collaborations
 
 <br>
-<p align="center"><i>"Discipline is the bridge between goals and accomplishment."</i></p>
+
+<p align="center">
+  <i>"Consistency, discipline, and execution turn dreams into reality."</i>
+</p>
+
+This version aligns better with your current goals—**MERN, placements, startup mindset, GSoC, and real-world projects**—instead of the older Python/Django-only positioning.
